@@ -1,0 +1,22 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  background: #EBEDEF;
+}
+
+/* Canvas for Graph */
+.canvas-style {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  box-shadow: 0 0 10px;
+}
+
+/* Adjustments to containers */
+.container-style {
+  display: flex;
+  height: 100vh;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
